@@ -1,0 +1,7 @@
+.ant-table-content {
+    overflow-x: auto !important;
+}
+
+#generic-table>.table-content {
+ padding-top: 5px;             
+}
